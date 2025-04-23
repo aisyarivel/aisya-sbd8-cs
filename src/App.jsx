@@ -2,7 +2,6 @@
 import React, { useState } from 'react';
 import './app.css';
 import GoogleLogo from './assets/GoogleLogo';
-import clientImage from './assets/images/client-photo.svg';
 
 function App() {
   const [email, setEmail] = useState('');
@@ -43,7 +42,7 @@ function App() {
           </div>
         </div>
         <div className="hero-image">
-        <img src="https://hackmd.io/_uploads/ByUmbe81le.png" width="400" height="260" />
+        <img src="https://hackmd.io/_uploads/ByUmbe81le.png" width="400" height="200" />
         </div>
       </section>
 
