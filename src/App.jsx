@@ -1,6 +1,6 @@
 // app.jsx
 import React, { useState } from 'react';
-import './app.css';
+import './App.css';
 import GoogleLogo from './assets/GoogleLogo';
 
 function App() {
